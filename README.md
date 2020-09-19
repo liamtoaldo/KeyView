@@ -1,5 +1,5 @@
 # KeyView
-KeyView is a really small side-project I created in September after starting school, because I was kinda bored...Anyway, KeyView is a classic keyboard viewer for streamers and gamers to use in streamings!   
+KeyView is a small side-project I created in September after starting school, because I was kinda bored...Anyway, KeyView is a classic keyboard viewer for streamers and gamers to use in streamings!   
 ## How to use it
 Just start the main.go file (you must have Go installed and also the library I used: <a href="https://ebiten.org">Ebiten)</a> or, simply, start the .exe file, then go to your streaming program (example OBS Studio or Streamlabs...), choose KeyView and add it as a scene.
 ## First release
